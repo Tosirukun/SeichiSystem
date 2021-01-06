@@ -1,0 +1,8 @@
+main: io.github.tosirukun.Seichisystem
+name: ${project.artifactId}
+version: ${project.version}
+
+commands:
+  menu:
+    description: 整地サーバーのメニューコマンドです
+    usage: /menu
