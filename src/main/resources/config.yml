@@ -1,0 +1,6 @@
+Database:
+  MysqlUrl: "localhost"
+  MysqlPort: "3306"
+  MysqlDatabase: "seichisystem"
+  MysqlUsername: "root"
+  MysqlPassword: "your password"
